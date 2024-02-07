@@ -1,4 +1,4 @@
-# Hello, I'm Cyrus
+# Hi, I'm Cyrus
 <a href="https://linkedin.com](https://www.linkedin.com/in/cyrusolinger/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a software support analyst who has a passion for cybersecurity.
