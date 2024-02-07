@@ -6,6 +6,16 @@ I am a software support analyst who has a passion for cybersecurity.
 ## Objective
 
 My journey in tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this sector, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
+
 <!---
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
