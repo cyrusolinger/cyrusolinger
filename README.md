@@ -11,10 +11,10 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab (In-Progress)</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab (In-Progress)</a>|
+| Case Management with TheHive                  | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab (In-Progress)</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/cyrusolinger/SOC-Automation-Lab.git" target="_blank">SOC Automation Lab (In-Progress)</a>|
 
 <!---
 ## Skills
