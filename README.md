@@ -55,9 +55,11 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 ## Certifications
 
 <div>
-<a href="https://www.credly.com/badges/f91b5248-9761-40e1-8a06-aba1d51a4be0/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/0c0f7a9b-613b-4714-9ac4-a27c608895b8/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/c2736c4f-fbbd-4d75-b50d-e84145074f8e/public_url"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/f91b5248-9761-40e1-8a06-aba1d51a4be0/public_url"><img src="https://img.shields.io/badge/Security%2B-%23003366?style=for-the-badge&logo=comptia&logoColor=white&logoSize=auto&labelColor=%23C8202F" /></a><br/>
+<a href="https://www.credly.com/badges/0c0f7a9b-613b-4714-9ac4-a27c608895b8/public_url"><img src="https://img.shields.io/badge/Network%2B-%234CAF50?style=for-the-badge&logo=comptia&logoColor=white&logoSize=auto&labelColor=%23C8202F" /></a><br/>
+<a href="https://www.credly.com/badges/c2736c4f-fbbd-4d75-b50d-e84145074f8e/public_url"><img src="https://img.shields.io/badge/A%2B-%23D3D3D3?style=for-the-badge&logo=comptia&logoColor=white&logoSize=auto&labelColor=%23C8202F" /></a><br/>
+</div>
+<a href="https://www.credly.com/badges/eec27d78-0f66-40af-b40a-5c281ad55948/public_url"><img src="https://img.shields.io/badge/Azure%20Fundamentals-%23007FFF?style=for-the-badge&logoColor=white&logoSize=auto&label=Microsoft&labelColor=%230066CC" /></a><br/>
 </div>
 <!---
 ## Projects
