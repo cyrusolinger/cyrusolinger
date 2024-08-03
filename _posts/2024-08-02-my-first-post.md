@@ -1,7 +1,0 @@
----
-title: "My First Post"
-date: 2024-08-02 12:00:00 +0000
-categories: jekyll update
----
-
-This is the first blog post on my journey into cybersecurity.
