@@ -28,8 +28,6 @@ github_username: cyrusolinger
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 
 # Exclude from processing.
