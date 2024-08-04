@@ -1,11 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 4.3.3"
 gem "bundler", "~> 2.2.27"
 gem "jekyll-seo-tag"
-gem "jekyll-feed", "~> 0.12"
 gem "terminal-theme", path: "./terminal-theme"
-
+gem "webrick", "~> 1.7"
 
 
 # If you have any plugins, put them here!
