@@ -27,7 +27,12 @@ twitter_username: your-username
 github_username: cyrusolinger
 
 # Build settings
-theme: minima
+markdown: kramdown
+theme: "terminal-theme"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 
 # Exclude from processing.
