@@ -1,5 +1,5 @@
 ---
-title: "Transitioning to Eleventy: A New Beginning"
+title: "Switching (again..) to Eleventy"
 date: 2024-08-05
 categories: workflow
 ---

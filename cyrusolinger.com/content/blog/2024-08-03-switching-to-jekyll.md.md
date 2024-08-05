@@ -1,5 +1,5 @@
 ---
-title: "Switching to Jekyll – A Rollercoaster Ride"
+title: "Switching to Jekyll"
 date: 2024-08-03
 categories: workflow
 ---
