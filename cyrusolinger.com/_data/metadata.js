@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Cyrus Olinger",
-	url: "cyrusolinger.com",
+	url: "https://cyrusolinger.com",
 	language: "en",
 	description: "Publishing my journey into cybersecurity",
 	author: {

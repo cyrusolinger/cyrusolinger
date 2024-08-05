@@ -79,6 +79,37 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	eleventyConfig.addFilter("htmlBaseUrl", (path, baseUrl) => {
+		try {
+			return new URL(path, baseUrl).toString();
+		} catch (e) {
+			console.error("Invalid URL:", path, baseUrl);
+			return path;
+		}
+	});
+
+	eleventyConfig.addFilter("addPathPrefixToFullUrl", (url) => {
+		try {
+			return new URL(url).toString();
+		} catch (e) {
+			console.error("Invalid URL:", url);
+			return url;
+		}
+	});
+
+	eleventyConfig.addFilter("dateToRfc3339", (dateObj) => {
+		return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toISO();
+	});
+
+	eleventyConfig.addFilter("getNewestCollectionItemDate", (collection) => {
+		if (!collection || !collection.length) {
+			return null;
+		}
+		return collection.reduce((newest, item) => {
+			return (newest.date > item.date) ? newest : item;
+		}).date;
+	});
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
