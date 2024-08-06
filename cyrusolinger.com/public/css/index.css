@@ -1,7 +1,7 @@
 /* Defaults */
 :root {
-	--font-family: 'Press Start 2P', Consolas, Menlo, Monaco, 'Lucida Console', 'Courier New', monospace;
-	--font-family-monospace: 'Press Start 2P', Consolas, Menlo, Monaco, 'Lucida Console', 'Courier New', monospace;
+    --font-family: 'Fira Code', Consolas, Menlo, Monaco, 'Lucida Console', 'Courier New', monospace;
+    --font-family-monospace: 'Fira Code', Consolas, Menlo, Monaco, 'Lucida Console', 'Courier New', monospace;
 }
 
 /* Theme colors */
@@ -196,7 +196,7 @@ header {
 .postlist-item:before {
 	display: inline-block;
 	pointer-events: none;
-	content: "" counter(start-from, decimal-leading-zero) ". ";
+	content: none;
 	line-height: 100%;
 	text-align: right;
 	margin-left: -1.5rem;
@@ -205,6 +205,7 @@ header {
 .postlist-item:before {
 	font-size: 0.8125em; /* 13px /16 */
 	color: var(--color-gray-90);
+	color: red;
 }
 .postlist-date {
 	word-spacing: -0.5px;
