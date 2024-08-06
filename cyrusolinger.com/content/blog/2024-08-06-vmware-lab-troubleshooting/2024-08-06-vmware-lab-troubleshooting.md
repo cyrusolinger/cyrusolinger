@@ -25,9 +25,9 @@ After running `ip a`, I noticed that the expected IP address was not showing up 
 I performed several troubleshooting steps to resolve the issue:
 - Rebooted the VM multiple times.
 - Changed the VM Network connection settings between Bridged and NAT.
-- Ensured the host machine was connected to a wired ethernet connection limit variability as much as possible.
+- Ensured the host machine was connected to a wired ethernet connection to limit variability as much as possible.
 
-I also explored different network connection options in VMware (Switching between NAT and Bridged):
+I also explored different network connection options in VMware (Switching between NAT and Bridged network connections):
 
 {% image "./network-adapter.png", "Network Connection Options" %}
 
