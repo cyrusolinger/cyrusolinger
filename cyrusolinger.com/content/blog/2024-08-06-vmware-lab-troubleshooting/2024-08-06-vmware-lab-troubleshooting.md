@@ -10,7 +10,7 @@ In my recent journey into virtualization, I decided to explore VMware for the fi
 
 ## Installing VMware
 
-I started by installing VMware on my system, setting up the virtual machine was a breeze because I used a lab file that provided to me.
+I started by installing VMware on my system, setting up the virtual machine was a breeze because I used a lab file that was provided to me.
 
 ## Checking the IP Address
 
